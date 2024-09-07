@@ -16,4 +16,3 @@ To utilize the files in this repository:
 2. Navigate to the relevant directories to access the files:
    ```bash
    cd D2DAdapter
-
