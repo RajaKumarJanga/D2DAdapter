@@ -1,4 +1,4 @@
-# D2DAdapter Final Layout
+**# D2DAdapter Final Layout**
 
 This repository contains all the output files related to the final layout of the D2DAdapter project. These files represent the culmination of design, verification, and layout processes, leading to the successful generation of the final GDS II files.
 
@@ -7,3 +7,25 @@ This repository contains all the output files related to the final layout of the
 The D2DAdapter project focuses on creating a die-to-die adapter that facilitates communication between different dies. The final layout files in this repository reflect the optimized design, which is ready for fabrication.
 
 -Refer to the report for detailed information about D2DAdapter.
+
+##Usage
+To utilize the files in this repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RajaKumarJanga/D2DAdapter.git
+
+# D2DAdapter Final Layout
+
+## Usage
+
+To utilize the files in this repository, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/RajaKumarJanga/D2DAdapter.git
+
+# Navigate to the directory
+cd D2DAdapter
+
+# Pull the latest changes
+git pull origin main
