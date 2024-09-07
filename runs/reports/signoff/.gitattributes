@@ -1,2 +1,0 @@
-*.xor.gds filter=lfs diff=lfs merge=lfs -text
-*.xor.xml filter=lfs diff=lfs merge=lfs -text
